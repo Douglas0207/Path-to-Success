@@ -50,7 +50,7 @@ Learned: Sliding Window Pattern
 
 ---
 
-### Total Problems Solved: 20
+## Total Problems Solved: 20
 
 ## 🎯 Goal
 
