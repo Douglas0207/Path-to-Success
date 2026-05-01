@@ -52,6 +52,8 @@ Learned: Sliding Window Pattern
 
 ## Total Problems Solved: 20
 
+---
+
 ## 🎯 Goal
 
 Crack Infosys through consistent DSA practice.
