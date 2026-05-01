@@ -38,11 +38,19 @@ This repository tracks my daily DSA preparation for cracking Infosys and similar
 
 ---
 
-### 🧠 Word Problem
+### Word Problems
+
+**1. Two Sum 
+
+Learned
 
 **Longest Subarray with at most one 0**
 
-👉 Learned: Sliding Window Pattern
+Learned: Sliding Window Pattern
+
+---
+
+## Total Problems Solved: 20
 
 ---
 
