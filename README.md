@@ -1,10 +1,10 @@
-# 🚀 Path to Crack Infosys
+# Path to Crack Infosys
 
 This repository tracks my daily DSA preparation for cracking Infosys and similar companies.
 
 ---
 
-## 📅 Day 1 – Array Basics
+## Day 1 – Array Basics
 
 ### Problems Practiced (11)
 
@@ -22,7 +22,7 @@ This repository tracks my daily DSA preparation for cracking Infosys and similar
 
 ---
 
-## 📅 Day 2 – Patterns & Optimization
+## Day 2 – Patterns & Optimization
 
 ### Problems Practiced (9)
 
@@ -40,17 +40,17 @@ This repository tracks my daily DSA preparation for cracking Infosys and similar
 
 ### Word Problems
 
-**1. Two Sum 
+**1. Two Sum**
 
-Learned
+Learned: Two Pointer Pattern
 
-**Longest Subarray with at most one 0**
+**2. Longest Subarray with at most one 0**
 
 Learned: Sliding Window Pattern
 
 ---
 
-## Total Problems Solved: 20
+### Total Problems Solved: 20
 
 ---
 
