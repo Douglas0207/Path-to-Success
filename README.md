@@ -88,9 +88,3 @@
 ## 🎯 Goal
 
 Crack Infosys through consistent DSA practice.
-
----
-
-## ⏭️ Next
-
-Day 3 → Hashing + Prefix Sum
