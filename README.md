@@ -50,6 +50,7 @@ This repository tracks my daily DSA preparation for cracking Infosys and similar
 6. Equilibrium Index  
 7. Running Sum (In-place)
 
+---
 
 ### Word Problems
 
