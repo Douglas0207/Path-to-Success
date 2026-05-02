@@ -65,19 +65,18 @@
 
 Learned: Two Pointer Pattern
 
-**2. Longest Subarray with at most one 0**
+2. **Longest Subarray with at most one 0**
+   Learned: Sliding Window Pattern
 
-Learned: Sliding Window Pattern
-
-4. **Sales Streak Analysis**  
+3. **Sales Streak Analysis**  
    Find the longest continuous period where total profit = K  
    Learned: Prefix Sum + HashMap (index)
 
-5. **Fraud Detection System**  
+4. **Fraud Detection System**  
    Count total number of subarrays with sum = K  
    Learned: Prefix Sum + HashMap (frequency)
 
-6. **Balance Point in Load System**  
+5. **Balance Point in Load System**  
    Find index where left sum = right sum  
    Learned: Running Sum + Total Sum
 
