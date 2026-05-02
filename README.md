@@ -45,7 +45,7 @@
 
 ---
 
-## 📅 Day 3 – Prefix Sum & HashMap
+## Day 3 – Prefix Sum & HashMap
 
 ### Problems Practiced (7)
 
