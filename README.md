@@ -61,9 +61,8 @@
 
 ### Word Problems
 
-**1. Two Sum**
-
-Learned: Two Pointer Pattern
+1. **Two Sum**
+   Learned: Two Pointer Pattern
 
 2. **Longest Subarray with at most one 0**
    Learned: Sliding Window Pattern
