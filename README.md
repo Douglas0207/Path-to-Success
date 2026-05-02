@@ -38,6 +38,19 @@ This repository tracks my daily DSA preparation for cracking Infosys and similar
 
 ---
 
+## 📅 Day 3 – Prefix Sum & HashMap
+
+### Problems Practiced (7)
+
+1. Build Prefix Sum Array  
+2. Range Sum Query  
+3. Subarray with Sum = K (Optimized)  
+4. Count Subarrays with Sum = K  
+5. Longest Subarray with Sum = K  
+6. Equilibrium Index  
+7. Running Sum (In-place)
+
+
 ### Word Problems
 
 **1. Two Sum**
@@ -47,6 +60,18 @@ Learned: Two Pointer Pattern
 **2. Longest Subarray with at most one 0**
 
 Learned: Sliding Window Pattern
+
+4. **Sales Streak Analysis**  
+   Find the longest continuous period where total profit = K  
+   Learned: Prefix Sum + HashMap (index)
+
+5. **Fraud Detection System**  
+   Count total number of subarrays with sum = K  
+   Learned: Prefix Sum + HashMap (frequency)
+
+6. **Balance Point in Load System**  
+   Find index where left sum = right sum  
+   Learned: Running Sum + Total Sum
 
 ---
 
