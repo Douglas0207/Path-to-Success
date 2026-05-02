@@ -1,6 +1,13 @@
 # Path to Crack Infosys
 
-This repository tracks my daily DSA preparation for cracking Infosys and similar companies.
+##This repository tracks my daily DSA preparation for cracking Infosys and similar companies.
+
+---
+
+##  Progress
+- Day 1: Basics -> Problems Solved = 11
+- Day 2: Arrays + Sliding Window -> Problems Solved = 9
+- Day 3: Prefix Sum + HashMap -> Problems Solved = 10
 
 ---
 
