@@ -27,7 +27,7 @@
 10. Sum of Array Elements  
 11. Two Sum (Sorted Array – Two Pointer)
 
---- 
+---  
 
 ## Day 2 – Patterns & Optimization
 
