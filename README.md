@@ -32,7 +32,7 @@
 ## Day 2 – Patterns & Optimization
 
 ### Problems Practiced (9)
-
+ 
 1. Find Maximum Element  
 2. Reverse Array  
 3. Left Rotate Array  
