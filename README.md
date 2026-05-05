@@ -2,7 +2,7 @@
 
 ## This repository tracks my daily DSA preparation for cracking Infosys and similar companies.
 
---- 
+---
 
 ##  Progress 
 - Day 1: Basics -> Problems Solved = 11 
