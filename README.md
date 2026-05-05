@@ -1,6 +1,6 @@
 # Path to Crack Infosys
 
-## This repository tracks my daily DSA preparation for cracking Infosys and similar companies. 
+## This repository tracks my daily DSA preparation for cracking Infosys and similar companies.
 
 --- 
 
