@@ -12,7 +12,7 @@
 --- 
  
 ## Day 1 – Array Basics 
-
+ 
 ### Problems Practiced (11) 
 
 1. Find Maximum Element in Array  
