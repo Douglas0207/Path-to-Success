@@ -25,7 +25,7 @@
 8. Linear Search  
 9. Count Even and Odd Numbers  
 10. Sum of Array Elements  
-11. Two Sum (Sorted Array – Two Pointer)
+11. Two Sum (Sorted Array – Two Pointer) 
 
 ---  
 
