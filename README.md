@@ -10,7 +10,7 @@
 - Day 3: Prefix Sum + HashMap -> Problems Solved = 10
 
 ---
-
+ 
 ## Day 1 – Array Basics 
 
 ### Problems Practiced (11) 
