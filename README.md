@@ -18,7 +18,7 @@
 1. Find Maximum Element in Array 
 2. Find Minimum Element 
 3. Reverse an Array  
-4. Second Largest Element  
+4. Second Largest Element 
 5. Check if Array is Sorted  
 6. Remove Duplicates (Sorted Array)  
 7. Move All Zeros to End  
