@@ -11,7 +11,7 @@
  
 ---
 
-## Day 1 – Array Basics 
+## Day 1 – Array Basics
  
 ### Problems Practiced (11)  
 
