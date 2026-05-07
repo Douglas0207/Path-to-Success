@@ -5,7 +5,7 @@ def leftRotate(arr):
         copy_arr[i] = arr[i+1]
     copy_arr[len(arr)-1] = ele
     return copy_arr
-
+ 
 def leftRotateByK(arr,k):
     res = []
     k = k % len(arr)
