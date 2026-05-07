@@ -16,7 +16,7 @@
 ### Problems Practiced (11)  
 
 1. Find Maximum Element in Array 
-2. Find Minimum Element  
+2. Find Minimum Element 
 3. Reverse an Array  
 4. Second Largest Element  
 5. Check if Array is Sorted  
